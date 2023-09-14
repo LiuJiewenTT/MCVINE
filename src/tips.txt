@@ -1,27 +1,29 @@
 MC Violent Insertion NeteaseEdition
 
-Version: 1.4
+Version: 1.5
 Auther: TTPeter
 
 
 -Installation:
 Modify path of '.minecraft' of those in the FOLLOWING FILES:
-	mc.bat & frmc.bat
+	mc.bat
 	export*.bat
 	import*.bat
-Then, create a dictionary in this category and put everything that you intend to insert into '.minecraft'.
+Then, create a dictionary in folder 'pkgs', like 'pkg1', and put everything that you intend to insert into '.minecraft'.
 
 ALL SET! READY!
 
 
 -Notice:
-1. When there is a newly installed version of game and it's your first run, you should run frmc.bat instead of mc.bat.
-2. Usually, import.bat wouldn't run import_weSchem.bat automatically after its main part's run.
-3. You may not edit any file except those mentioned in Installation instruction.
+1. Usually, import.bat wouldn't run import_weSchem.bat automatically after its main part's run.
+2. You may not edit any file except those mentioned in Installation instruction.
 
 -Use:
-1. Before starting your game, you should run mc.bat, which is to run run.bat. Same for frmc.bat.
+1. Before starting your game, you should run mc.bat, which is to run run.bat. You can close it when you game is already launched.
 
 2. After your playing, and BEFORE NEXT PLAY, you should run export.bat to update your data from game to "the local". In this way, your newest data would be exported and could be import again to make sure nothing to be changed  when you enter the next play.
 
 3. You can run *_weSchem.bat without runing *.bat.
+
+-Validation:
+To ensure your security, please make sure that all files should be earier than 2022/5/24 3:50 (UTC+8). But it can not be 100% true.
