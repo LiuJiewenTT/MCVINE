@@ -6,9 +6,10 @@ echo Lost! Working to repair...
 :rp
 rem 检查目标目录是否存在
 if exist %1\mods (
+rem 重新创建wat以确认没有中途被删除
+echo nul>%a%
 rem 复制对象
 xcopy /Y /F /I /E %b% %1
-echo nul>%a%
 ) else (
 goto rp
 )

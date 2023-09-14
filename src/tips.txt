@@ -1,6 +1,6 @@
 MC Violent Insertion NeteaseEdition
 
-Version: 1.2
+Version: 1.3
 Auther: TTPeter
 
 
@@ -21,6 +21,13 @@ ALL SET! READY!
 -Use:
 1. Before starting your game, you should run mc.bat, which is to run run.bat.
 
+2. Enter a key to go into inpecting mode, then back to the launcher and start the game.
+
+3. In this verion, if javaw.exe has already been started, this program will automatically stop after a 300 seconds count-down. In case there is an accident, you may press key 'W' to continue this program and try to restart your game. (Not referring to 'reconnecting')
+
 2. After your playing, and BEFORE NEXT PLAY, you should run export.bat to update your data from game to "the local". In this way, your newest data would be exported and could be import again to make sure nothing to be changed  when you enter the next play.
 
 3. You can run *_weSchem.bat without runing *.bat.
+
+-Development log, 22.4.15: 
+- Make sure not to miss a clean in some case.
