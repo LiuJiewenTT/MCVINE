@@ -20,7 +20,7 @@ rem   limitations under the License.
 @echo off
 setlocal enabledelayedexpansion
 echo Welcome, my friend! This is MCVINE from mcmod.
-echo Version: 1.5
+echo Version: 1.6
 echo ______________________________________________
 echo %0
 echo %1
@@ -36,19 +36,20 @@ pause
 rem 检查是否被更新
 if exist "%a%" ( echo Exist! Waiting for the trigger... )
 
-call "%~dp0ck.bat" "%1"
-
-echo Process Finished!...(You may close this if you enter the game already.)
-echo (If game brokedown or whatever reason you are out of the game, just restart your game and this program is always ready for you! :)
-echo Keep Assuring...
+call "%~dp0ck.bat" "%1">log.txt
+rem display words
+for /f "delims=" %%i in (%~dp0backworks_string.txt) do ( echo %%i )
 
 set /a cnt=0
 :loop
 set /a cnt=!cnt!+1
 echo !cnt!
-call "%~dp0ck.bat" "%1"
+call "%~dp0ck.bat" "%1">>log.txt
+rem display words
+for /f "delims=" %%i in (%~dp0backworks_string.txt) do ( echo %%i )
+
 goto loop
 
 echo "end"
 
-rem all copies are at: 2022/5/24 3:46
+rem all copies are at: 2022/5/24 4:19

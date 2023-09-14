@@ -1,0 +1,9 @@
+Process Finished!...(You may close this if you've entered the game already.)
+-----------------------------------------------------------------------------
+(log from inserting process is stored in log.txt)
+(If game brokedown or whatever reason you are out of the game, just restart your game and this program is always ready for you! :)
+-----------------------------------------------------------------------------
+Keep Assuring...
+:)
+
+

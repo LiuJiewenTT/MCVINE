@@ -1,0 +1,27 @@
+Lost Working to repair...
+"D:\MCLDownload\Game\.minecraft\mods"
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\exnihilosequentia-1.16-20211108-030438.jar -> D:\MCLDownload\Game\.minecraft\mods\exnihilosequentia-1.16-20211108-030438.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\forgemod_VoxelMap-1.10.14_for_1.16.4.jar -> D:\MCLDownload\Game\.minecraft\mods\forgemod_VoxelMap-1.10.14_for_1.16.4.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\OptiFine_1.16.4_HD_U_G7.jar -> D:\MCLDownload\Game\.minecraft\mods\OptiFine_1.16.4_HD_U_G7.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\shaderpacks\Sildur's+Vibrant+Shaders+v1.29+Lite.zip -> D:\MCLDownload\Game\.minecraft\shaderpacks\Sildur's+Vibrant+Shaders+v1.29+Lite.zip
+复制了 4 个文件
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg2\GOOD.txt -> D:\MCLDownload\Game\.minecraft\GOOD.txt
+复制了 1 个文件
+Lost Working to repair...
+"D:\MCLDownload\Game\.minecraft\mods"
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\exnihilosequentia-1.16-20211108-030438.jar -> D:\MCLDownload\Game\.minecraft\mods\exnihilosequentia-1.16-20211108-030438.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\forgemod_VoxelMap-1.10.14_for_1.16.4.jar -> D:\MCLDownload\Game\.minecraft\mods\forgemod_VoxelMap-1.10.14_for_1.16.4.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\OptiFine_1.16.4_HD_U_G7.jar -> D:\MCLDownload\Game\.minecraft\mods\OptiFine_1.16.4_HD_U_G7.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\shaderpacks\Sildur's+Vibrant+Shaders+v1.29+Lite.zip -> D:\MCLDownload\Game\.minecraft\shaderpacks\Sildur's+Vibrant+Shaders+v1.29+Lite.zip
+复制了 4 个文件
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg2\GOOD.txt -> D:\MCLDownload\Game\.minecraft\GOOD.txt
+复制了 1 个文件
+Lost Working to repair...
+"D:\MCLDownload\Game\.minecraft\mods"
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\exnihilosequentia-1.16-20211108-030438.jar -> D:\MCLDownload\Game\.minecraft\mods\exnihilosequentia-1.16-20211108-030438.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\forgemod_VoxelMap-1.10.14_for_1.16.4.jar -> D:\MCLDownload\Game\.minecraft\mods\forgemod_VoxelMap-1.10.14_for_1.16.4.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\mods\OptiFine_1.16.4_HD_U_G7.jar -> D:\MCLDownload\Game\.minecraft\mods\OptiFine_1.16.4_HD_U_G7.jar
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg1\shaderpacks\Sildur's+Vibrant+Shaders+v1.29+Lite.zip -> D:\MCLDownload\Game\.minecraft\shaderpacks\Sildur's+Vibrant+Shaders+v1.29+Lite.zip
+复制了 4 个文件
+D:\TT\TTBC-D\bat技术\MCVINE\MCVINE_1.6\pkgs\pkg2\GOOD.txt -> D:\MCLDownload\Game\.minecraft\GOOD.txt
+复制了 1 个文件
