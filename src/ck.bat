@@ -18,3 +18,4 @@ echo nul>%a%
 goto ck
 )
 )
+goto :eof

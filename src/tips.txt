@@ -1,6 +1,6 @@
 MC Violent Insertion NeteaseEdition
 
-Version: 1.0
+Version: 1.1
 Auther: TTPeter
 
 
@@ -19,7 +19,7 @@ ALL SET! READY!
 2. You may not edit any file except those mentioned in Installation instruction.
 
 -Use:
-1. Before starting your game, you should run mc.bat, which is to run run.bat.
+1. Before starting your game, you should run mc.bat, which is to run run.bat. You can close it when you game is already launched.
 
 2. After your playing, and BEFORE NEXT PLAY, you should run export.bat to update your data from game to "the local". In this way, your newest data would be exported and could be import again to make sure nothing to be changed  when you enter the next play.
 
