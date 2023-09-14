@@ -14,14 +14,32 @@ pause
 rem 检查是否被更新
 if exist %a% ( echo Exist! Waiting for the trigger... )
 
-call ck.bat %1
-
-echo Assuring...(You may close this if you enter the game already.)
-set /a cnt=0
 :loop
+if exist %a% (
+echo exist>ck1.txt
+goto loop
+) else (
+call rp.bat %1
+)
+
+echo Assuring...
+
+set /a cnt=0
+
+:loop2
 set /a cnt=!cnt!+1
 echo !cnt!
-call ck.bat %1
-goto loop
+if exist %a% (
+echo exist - !cnt!>ck1.txt
+) else (
+call rp.bat %1
+)
+if !cnt! LSS 1000 (
+goto loop2
+) else (
+echo End Check
+)
+goto :eof
 
 echo "end"
+
